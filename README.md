@@ -19,3 +19,13 @@
 > - Swahili: 
 > - Ukrainian: 
 
+--------
+### How to Read
+ > - Find Your Language
+ > - Click Link
+ > - Download PDF
+--------
+### How to Contribute
+ > - Go to [HIPS](https://github.com/hercone/hips)
+ > - Submit Translation Request in Issue Template
+--------
