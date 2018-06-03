@@ -7,11 +7,12 @@
 > - Catalan: 
 > - Chinese: 
 > - Czech: 
-> - English: 
-> - French: 
+> - [English:](https://s3.us-east-2.amazonaws.com/hercmedia/Herc-English-Whitepaper.pdf) 
+> - [French:](https://s3.us-east-2.amazonaws.com/hercmedia/Herc-Whitepaper-French.pdf) 
 > - German:
 > - Italian: 
-> - Korean:
+> - [Japanese:](https://s3.us-east-2.amazonaws.com/hercmedia/herc-whitepaper_japanese.pdf)
+> - [Korean:](https://s3.us-east-2.amazonaws.com/hercmedia/Hercules-Whitepaper-Korean.pdf)
 > - Polish:
 > - Portuguese: 
 > - Russian: 
