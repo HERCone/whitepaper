@@ -3,22 +3,22 @@
 ![HERCWPCover](https://github.com/HERCone/whitepaper/blob/master/English_HERC_Final.png)
 
 >**Translations Available:**
-> - Arabic:
-> - Catalan: 
-> - Chinese: 
-> - Czech: 
-> - [English:](https://s3.us-east-2.amazonaws.com/hercmedia/Herc-English-Whitepaper.pdf) 
-> - [French:](https://s3.us-east-2.amazonaws.com/hercmedia/Herc-Whitepaper-French.pdf) 
-> - German:
-> - Italian: 
-> - [Japanese:](https://s3.us-east-2.amazonaws.com/hercmedia/herc-whitepaper_japanese.pdf)
-> - [Korean:](https://s3.us-east-2.amazonaws.com/hercmedia/Hercules-Whitepaper-Korean.pdf)
-> - Polish:
-> - Portuguese: 
-> - Russian: 
-> - Spanish: 
-> - Swahili: 
-> - Ukrainian: 
+> - Arabic
+> - Catalan 
+> - Chinese 
+> - Czech 
+> - [English](https://s3.us-east-2.amazonaws.com/hercmedia/Herc-English-Whitepaper.pdf) 
+> - [French](https://s3.us-east-2.amazonaws.com/hercmedia/Herc-Whitepaper-French.pdf) 
+> - German
+> - Italian 
+> - [Japanese](https://s3.us-east-2.amazonaws.com/hercmedia/herc-whitepaper_japanese.pdf)
+> - [Korean](https://s3.us-east-2.amazonaws.com/hercmedia/Hercules-Whitepaper-Korean.pdf)
+> - Polish
+> - Portuguese
+> - Russian
+> - Spanish 
+> - Swahili
+> - Ukrainian 
 
 --------
 ### How to Read
