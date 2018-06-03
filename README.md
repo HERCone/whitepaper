@@ -1,4 +1,4 @@
-# Consumer White Paper for HERC Platform
+# White Paper for HERC Platform
 
 ![HERCWPCover](https://github.com/HERCone/whitepaper/blob/master/English_HERC_Final.png)
 
