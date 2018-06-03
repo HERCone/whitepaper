@@ -1,6 +1,6 @@
 # White Paper for HERC Platform
 
-![HERCWPCover](https://github.com/HERCone/whitepaper/blob/master/cover.png)
+![HERCWPCover](https://github.com/HERCone/whitepaper/blob/master/cover.PNG)
 
 >**Translations Available:**
 > - Arabic
