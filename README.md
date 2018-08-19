@@ -19,7 +19,7 @@
 --------
 ### How to Read
  > - Find Your Language
- > - Click Link
+ > - Click Link 
  > - Download PDF
 --------
 ### How to Contribute
