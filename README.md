@@ -4,7 +4,7 @@
 
 >**Translations Available:**
 > - [Dutch](https://s3.us-east-2.amazonaws.com/hercmedia/Herc_whitepaper_Dutch_x1.pdf)
-> - [English](https://s3.us-east-2.amazonaws.com/hercmedia/Herc-English-Whitepaper.pdf)
+> - [English](https://s3.us-east-2.amazonaws.com/hercmedia/herc_2018_whitepaper.pdf)
 > - [Estonian](https://s3.us-east-2.amazonaws.com/hercmedia/Herc_whitepaper_Estonian_x1.pdf)
 > - [French](https://s3.us-east-2.amazonaws.com/hercmedia/Herc-Whitepaper-French.pdf) 
 > - [German](https://s3.us-east-2.amazonaws.com/hercmedia/Hercules-Whitepaper-German.pdf)
